@@ -96,7 +96,7 @@ The following features are intentionally excluded:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/airzambia-flight-booking.git
+git clone https://github.com/MishFr/airzambia-flight-booking.git
 
 # Backend setup
 cd backend
@@ -130,4 +130,5 @@ Prospective Employee – YUAI Soft Solution
 
 This project is developed for educational and demonstration purposes only. Commercial use is not permitted.
 ﻿ AirZambia.com-docs
+
 
